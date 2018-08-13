@@ -1,0 +1,11 @@
+Package: com.Rango.betterlife
+Name: BetterLife
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Enables premium privileges in the Betternet VPN App from the Appstore.
+
+If you have issues or queries please contact me on twitter at @Yung_Specht
+Maintainer: Rango <Yung.Sp3cht@gmail.com>
+Author: Rango <@Yung_Specht>
+Section: Tweaks
